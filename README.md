@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+[DEMO](https://genepan2641.github.io/thef2e-007-canvas-game/)
+
 ## Build Setup
 
 ``` bash
